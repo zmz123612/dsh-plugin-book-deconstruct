@@ -14,11 +14,11 @@ DeepSeek Harness **Host 插件**：装进 profile 后会出现在插件列表，
 
 ### 第一种使用方式
 
-![第1种使用方式](./第1种使用方式.png)
+![第一种使用方式](https://raw.githubusercontent.com/zmz123612/dsh-plugin-book-deconstruct/main/usage-1.png)
 
 ### 第二种使用方式
 
-![第2种使用方式](./第2种使用方式.png)
+![第二种使用方式](https://raw.githubusercontent.com/zmz123612/dsh-plugin-book-deconstruct/main/usage-2.png)
 
 
 ## 输出两段：

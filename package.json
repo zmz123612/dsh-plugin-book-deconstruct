@@ -27,8 +27,8 @@
     "icon.svg",
     "README.md",
     "LICENSE",
-    "第1种使用方式.png",
-    "第2种使用方式.png"
+    "usage-1.png",
+    "usage-2.png"
   ],
   "engines": {
     "dsh": ">=0.2.0"
